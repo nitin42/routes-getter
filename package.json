@@ -1,0 +1,25 @@
+{
+  "name": "routes-getter",
+  "version": "0.0.4",
+  "description": "Walks through your routes folder and imports them to your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Nitin Tulswani <tulswani19@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "should": "^11.1.1"
+  },
+  "keyword": [
+    "routers",
+    "stats",
+    "extensible"
+  ],
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
