@@ -38,6 +38,7 @@ module.exports = (app) => {
 `server.js` file in your app directory.
 
 ```javascript
+// src/server.js
 const express = require('express');
 const loader = require('routes-getter');
 
