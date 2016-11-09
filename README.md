@@ -1,4 +1,7 @@
 # routes-getter
+[![Build Status](https://travis-ci.org/nitin42/routes-getter.svg?branch=master)](https://travis-ci.org/nitin42/routes-getter)
+[![npm](https://img.shields.io/npm/v/npm.svg)]()
+https://img.shields.io/badge/dependencies-up--to--date-green.svg
 
 > ***Accessible routes in your ExpressJS application***
 
