@@ -9,9 +9,9 @@ It walks through your routes folder and imports them to your project.
 
 #### Table of Contents
 
-* Installation
-* Examples
-* API
+* [Installation](#installation)
+* [Examples](#examples)
+* [API](#api)
 
 ## Installation
 
