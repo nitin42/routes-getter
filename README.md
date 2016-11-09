@@ -48,6 +48,8 @@ const app = express();
 loader.routers(__dirname + '/routes', app); // Loads the routes in your application
 ```
 
+Check the complete example [here](https://github.com/nitin42/routes-getter/tree/master/example)
+
 
 ## API
 
