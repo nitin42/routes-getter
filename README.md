@@ -30,7 +30,7 @@ Assuming the `src` directory to be the application folder, this is how you will 
 // src/routes/index.js
 
 module.exports = (app) => {
-	app.get('/', (req, res) => x{
+	app.get('/', (req, res) => {
 		res.render('../views/index.html');
 	});
 }
