@@ -39,6 +39,7 @@ module.exports = (app) => {
 
 ```javascript
 // src/server.js
+
 const express = require('express');
 const loader = require('routes-getter');
 
