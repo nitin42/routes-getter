@@ -2,8 +2,6 @@
 
 > ***Accessible routes in your ExpressJS application***
 
-![Centered image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/280px-Expressjs.png)
-
 An easy way of working with your routes in [ExpressJS](https://expressjs.com) applications.
 It walks through your routes folder and imports them to your project.
 
