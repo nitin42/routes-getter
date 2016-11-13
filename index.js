@@ -1,8 +1,16 @@
+/**
+ * @author Nitin Tulswani <tulswani19@gmail.com>
+ */
+
 'use strict';
 
+/** Dependencies */
 const express = require('express');
 const fs = require('fs');
 
+/**
+ * @constructor
+ */
 const app = express();
 
 /**
